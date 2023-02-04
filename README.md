@@ -1,2 +1,3 @@
-# Netflix-Clone-Using-React
+# Netflix-Clone-Using-React 🌟
 Fully functioning React.js based Netflix Clone 
+# Output UI 🌟
